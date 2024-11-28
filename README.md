@@ -4,7 +4,7 @@ A tool for record showroom-live
 
 # Notice
 ### This is a non-open source script.
-### require these two `.exe` executable files be located in the same directory as the main program.
+### require these two `.exe` files be located in the same directory as the main program.
 - [ffmpeg.exe](https://www.ffmpeg.org/download.html)
 - [N_m3u8dl-RE.exe](https://github.com/nilaoda/N_m3u8DL-RE)
 
