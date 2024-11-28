@@ -1,5 +1,5 @@
 # Sr-recorder
-A tool for recorder showroom-live
+A tool for record showroom-live
 
 
 # Notice
